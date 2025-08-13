@@ -1,1 +1,1 @@
-* [Stone guard](/msv10/stoneguard)
+* [Stone guard](/msv/stoneguard)
