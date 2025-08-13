@@ -1,1 +1,1 @@
-* [Stone guard](/msv/stoneguard)
+* [Stone guard](/YouHadMeAtZugZug/msv/stoneguard/)
